@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Geovane Araujo
+## Geovane Araujo
 <div align="center">
   <a href="https://github.com/geovanesv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanesv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
