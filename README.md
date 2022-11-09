@@ -42,12 +42,11 @@
   <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=geovanesv&show_icons=true&locale=en&theme=gotham" alt="geovanesv" /></p>
   </td>
   <tr>
-  <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
+  <td colspan = 2><br><p align = "center">  </p></td>
   <tr>
   <td colspan=2 width ="50%">
   <br>
   <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </p>
   </table>
 
