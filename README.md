@@ -6,14 +6,17 @@
 * :man_technologist: Desenvolvedor Full Stack.
 
 ## Habilidades
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-darkgreen?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=blue)
 ![HTML](https://img.shields.io/badge/HTML%205-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS%203-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node-black?style=for-the-badge&logo=node.js&logoColor=green)
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=blue)
+![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-araujo-07str/)
