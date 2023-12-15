@@ -1,7 +1,7 @@
 <h1 align=center>Muito prazer, meu nome é Geovane Araujo :smiley:</h1>
 
 ## Sobre mim
-* :books: Estudante de Ciência da Computação pelo [Instituto Federal do Ceará](https://ifce.edu.br);
+* :books: Bacharel em Ciência da Computação pelo [Instituto Federal do Ceará](https://ifce.edu.br);
 * :mortar_board: Técnico em Informática pelo [Instituto Federal do Ceará](https://ifce.edu.br);
 * :man_technologist: Desenvolvedor Full Stack.
 
@@ -41,12 +41,3 @@
   </p>
   </table>
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-  
-  ##
- 
-<div> 
-   
-  ![Snake animation](https://github.com/geovanesv/geovanesv/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
