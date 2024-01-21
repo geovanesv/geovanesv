@@ -28,7 +28,7 @@
 
 <br>
 
-## 🔭 Linguagens e Ferramentas
+## 🔭 Languages and Tools
 
 <table>
   <tbody>
