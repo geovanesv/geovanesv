@@ -1,13 +1,11 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05DBF2&height=120&section=header"/>
+  <br>
   <a href="https://git.io/typing-svg">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=05DBF2&size=40&center=true&vCenter=true&width=1000&lines=I'm+Geovane+Araujo;Desenvolvedor+FullStack;">
   </a>
 </div>
-
 <br>
- <br>
- <br>
 
 ## 👋 Sobre mim
 * :books: Bacharel em Ciência da Computação pelo [Instituto Federal do Ceará](https://ifce.edu.br);
