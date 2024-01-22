@@ -8,9 +8,15 @@
 <br>
 
 ## 👋 Sobre mim
+
+
+🚀 Bem-vindo ao meu mundo digital! Sou um apaixonado desenvolvedor FullStack, formado em Ciência da Computação e com uma sólida base técnica adquirida durante meu curso como Técnico em Informática no Instituto Federal do Ceará, estou sempre buscando desafios que me permitam explorar novas tecnologias e aprimorar minhas habilidades de programação. Meu objetivo é transformar ideias em soluções funcionais e eficientes.
+
 * :books: Bacharel em Ciência da Computação pelo [Instituto Federal do Ceará](https://ifce.edu.br);
 * :mortar_board: Técnico em Informática pelo [Instituto Federal do Ceará](https://ifce.edu.br);
 * :man_technologist: Desenvolvedor FullStack.
+
+
 
 <br>
 
