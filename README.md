@@ -108,9 +108,9 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
           height="40"
-          alt="Node.js"
+          alt="Nest.js"
         />
         <img width="12" /> Nest.js
       </td>
