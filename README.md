@@ -41,19 +41,19 @@
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
           height="40"
-          alt="HTML"
+          alt="Java"
         />
-        <img width="12" /> HTML
+        <img width="30" /> Java
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
           height="40"
-          alt="CSS"
+          alt="Spring"
         />
-        <img width="12" /> CSS
+        <img width="20" /> Spring
       </td>
       <td>
         <img
@@ -78,15 +78,15 @@
           width="40"
           height="40"
         />
-        <img width="12" /> React
+        <img width="23" /> React
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"
           height="40"
-          alt="Dart"
+          alt="Angular"
         />
-        <img width="20" /> Dart
+        <img width="20" /> Angular
       </td>
       <td>
         <img
