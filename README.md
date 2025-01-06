@@ -82,11 +82,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
           height="40"
-          alt="Angular"
+          alt="Vue"
         />
-        <img width="20" /> Angular
+        <img width="20" /> Vue
       </td>
       <td>
         <img
@@ -140,11 +140,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
           height="40"
-          alt="Postgresql"
+          alt="Redis"
         />
-        <img width="12" /> Mysql
+        <img width="12" /> Redis
       </td>
       <td>
         <img
