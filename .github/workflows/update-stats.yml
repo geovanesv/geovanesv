@@ -1,4 +1,3 @@
-# .github/workflows/github-stats.yml
 name: Generate GitHub Stats
 
 on:
@@ -23,13 +22,11 @@ jobs:
           fetch-depth: 0
 
       - name: Generate GitHub Stats
-        # Use a versão oficial da action que funciona
-        uses: jstrieb/github-stats@v1.0.14
+        # Usando fork funcional
+        uses: sdhhf1245/stats@main
         with:
           ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
-          # Inclui repositórios privados e organizações
-          EXCLUDE_REPOS: ""
-          # Inclui repositórios forkados (opcional)
+          EXCLUDE_REPOS: ""   # deixar vazio para incluir todos
           EXCLUDE_FORKED: false
 
       - name: Commit and push changes
