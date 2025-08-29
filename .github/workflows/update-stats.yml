@@ -1,38 +1,41 @@
-name: Update GitHub Stats
+# .github/workflows/github-stats.yml
+name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # rodar todo dia à meia-noite UTC
-  workflow_dispatch:
+    # Executa todos os dias às 6:00 UTC (3:00 AM no horário de Brasília)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Permite execução manual
+  push:
+    branches: [ main ]
 
 jobs:
-  build:
+  github-stats:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+    
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Clone github-stats
-        run: |
-          git clone https://github.com/jstrieb/github-stats.git github-stats
-
-      - name: Install dependencies
-        run: |
-          cd github-stats
-          python3 -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Run github-stats
-        env:
-          ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          cd github-stats
-          python3 generate_images.py
-
-      - name: Commit and push generated images
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add generated/*.svg
-          git diff --quiet && echo "No changes to commit" || git commit -m "Update GitHub stats images [skip ci]"
-          git push
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+        fetch-depth: 0
+    
+    - name: Generate GitHub Stats
+      uses: jstrieb/github-stats@master
+      with:
+        # Token deve ter permissões: repo, user, read:org
+        ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
+        # Inclui repositórios privados e organizações
+        EXCLUDE_REPOS: ""
+        # Inclui repositórios forkados (opcional)
+        EXCLUDE_FORKED: false
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add generated/
+        git diff --staged --quiet || git commit -m "📊 Updated GitHub stats"
+        git push
