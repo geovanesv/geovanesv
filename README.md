@@ -21,20 +21,17 @@
 
 ## 📊 Estatísticas Completas do GitHub
 
-<!-- Estatísticas geradas automaticamente pelo jstrieb/github-stats -->
+<!-- Estatísticas geradas automaticamente pelo GitHub Stats -->
 <div align="center">
   
   ### 📈 Estatísticas Gerais
-  
-  ![GitHub Stats](./generated/overview.svg#gh-dark-mode-only)
-  ![GitHub Stats](./generated/overview.svg#gh-light-mode-only)
+  <img src="./generated/overview.svg" alt="GitHub Stats" width="600"/>
   
   ### 💻 Linguagens Mais Utilizadas
-  
-  ![Top Languages](./generated/languages.svg#gh-dark-mode-only)
-  ![Top Languages](./generated/languages.svg#gh-light-mode-only)
+  <img src="./generated/languages.svg" alt="Top Languages" width="600"/>
   
 </div>
+
 
 <!-- Estatísticas adicionais usando github-readme-stats para comparação -->
 <div align="center">
