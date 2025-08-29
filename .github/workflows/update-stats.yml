@@ -2,9 +2,8 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    # Executa todos os dias às 6:00 UTC (3:00 AM no horário de Brasília)
     - cron: '0 6 * * *'
-  workflow_dispatch: # Permite execução manual
+  workflow_dispatch:
   push:
     branches: [ main ]
 
@@ -22,11 +21,10 @@ jobs:
           fetch-depth: 0
 
       - name: Generate GitHub Stats
-        # Usando fork funcional
-        uses: sdhhf1245/stats@main
+        uses: jstrieb/github-stats@main
         with:
           ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
-          EXCLUDE_REPOS: ""   # deixar vazio para incluir todos
+          EXCLUDE_REPOS: ""
           EXCLUDE_FORKED: false
 
       - name: Commit and push changes
