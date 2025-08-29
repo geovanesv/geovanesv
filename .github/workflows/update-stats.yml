@@ -24,7 +24,7 @@ jobs:
 
       - name: Run github-stats
         env:
-          ACCESS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           cd github-stats
           python3 generate_images.py
