@@ -16,26 +16,26 @@ jobs:
       contents: write
     
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GH_TOKEN }}
-        fetch-depth: 0
-    
-    - name: Generate GitHub Stats
-      uses: jstrieb/github-stats@master
-      with:
-        # Token deve ter permissões: repo, user, read:org
-        ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
-        # Inclui repositórios privados e organizações
-        EXCLUDE_REPOS: ""
-        # Inclui repositórios forkados (opcional)
-        EXCLUDE_FORKED: false
-    
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add generated/
-        git diff --staged --quiet || git commit -m "📊 Updated GitHub stats"
-        git push
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0
+
+      - name: Generate GitHub Stats
+        # Use a versão oficial da action que funciona
+        uses: jstrieb/github-stats@v1.0.14
+        with:
+          ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Inclui repositórios privados e organizações
+          EXCLUDE_REPOS: ""
+          # Inclui repositórios forkados (opcional)
+          EXCLUDE_FORKED: false
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add generated/
+          git diff --staged --quiet || git commit -m "📊 Updated GitHub stats"
+          git push
