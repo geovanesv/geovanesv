@@ -1,159 +1,139 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05DBF2&height=120&section=header"/>
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=05DBF2&size=40&center=true&vCenter=true&width=1000&lines=I'm+Geovane+Araujo;Desenvolvedor+FullStack;">
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=05DBF2&height=120&section=header"/>
 </div>
-<br>
+
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=05DBF2&size=34&center=true&vCenter=true&width=1000&lines=I'm+Geovane+Araujo;FullStack+Developer;Building+scalable+systems;React+%26+Vue+on+the+frontend;Node+%7C+Nest+%7C+Laravel+on+the+backend;DDD+%7C+SOLID+%7C+CQRS" alt="Typing SVG"/>
+</a>
+</div>
+
+<br/>
+
+<br/>
+
+---
 
 ## 👋 Sobre mim
 
+🚀 Desenvolvedor FullStack com sólida experiência em back-end, apaixonado por **arquitetura limpa, microsserviços e performance**. Formado em Ciência da Computação pelo Instituto Federal do Ceará, com vivência em projetos reais de alta complexidade envolvendo filas assíncronas, gateways de pagamento e arquitetura orientada a eventos.
 
-🚀 Bem-vindo ao meu mundo digital! Sou um apaixonado desenvolvedor FullStack, formado em Ciência da Computação e com uma sólida base técnica adquirida durante meu curso como Técnico em Informática no Instituto Federal do Ceará, estou sempre buscando desafios que me permitam explorar novas tecnologias e aprimorar minhas habilidades de programação. Meu objetivo é transformar ideias em soluções funcionais e eficientes.
+- 📚 Bacharel em **Ciência da Computação** — [Instituto Federal do Ceará](https://ifce.edu.br)
+- 🎓 Técnico em **Informática** — [Instituto Federal do Ceará](https://ifce.edu.br)
+- 🏢 FullStack Developer @ edunext  
+  → Desenvolvimento de aplicações com NestJS, AdonisJS e Vue.js
+- 🏢 FullStack Developer @ Quyta  
+  → Desenvolvimento de sistemas com Laravel, React e TypeScript
+- 🏗️ Experiência em Arquitetura de Software utilizando **DDD, Clean Architecture, CQRS e SOLID**
 
-* :books: Bacharel em Ciência da Computação pelo [Instituto Federal do Ceará](https://ifce.edu.br);
-* :mortar_board: Técnico em Informática pelo [Instituto Federal do Ceará](https://ifce.edu.br);
-* :man_technologist: Desenvolvedor FullStack.
+<br/>
 
+---
 
+## 📊 Estatísticas
 
-<br>
-
-<hr/>
 <div align="center">
-  <a href="https://github.com/geovanesv/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=geovanesv&show_icons=true&theme=transparent&line_height=28&locale=pt-br&custom_title=Estatísticas&rank_icon=github&border_radius=10px&title_color=05DBF2&card_width=100px"/>
-  </a>
-  <a href="https://github.com/geovanesv/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanesv&layout=donut&theme=transparent&locale=pt-br&border_radius=10px&title_color=05DBF2"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=geovanesv&theme=dark&hide_border=true&locale=pt_BR&ring=05DBF2&fire=05DBF2&currStreakLabel=05DBF2&sideLabels=05DBF2" alt="GitHub Streak"/>
 </div>
 
-<hr/>
+<br/>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geovanesv&theme=react-dark&hide_border=true&color=05DBF2&line=05DBF2&point=FFFFFF&area=true&area_color=05DBF2" alt="Activity Graph"/>
+</div>
 
-## 🔭 Languages and Tools
+<br/>
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-          height="40"
-          alt="Java"
-        />
-        <img width="30" /> Java
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-          height="40"
-          alt="Spring"
-        />
-        <img width="20" /> Spring
-      </td>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"
-          height="40"
-          alt="JavaScript"
-        />
-        <img width="12" /> JavaScript
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-          height="40"
-          alt="TypeScript"
-        />
-        <img width="60" /> TypeScript
-      </td>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"
-          alt="React"
-          width="40"
-          height="40"
-        />
-        <img width="23" /> React
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
-          height="40"
-          alt="Vue"
-        />
-        <img width="20" /> Vue
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-          height="40"
-          alt="flutter"
-        />
-        <img width="20" /> Flutter
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"
-          height="40"
-          alt="Node.js"
-        />
-        <img width="12" /> Node.js
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
-          height="40"
-          alt="Nest.js"
-        />
-        <img width="12" /> Nest.js
-      </td>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
-          height="40"
-          alt="Express.js"
-        />
-        <img width="12" /> Express.js
-      </td>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"
-          height="40"
-          alt="MongoDB"
-        />
-        <img width="12" /> MongoDB
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-          height="40"
-          alt="Postgresql"
-        />
-        <img width="12" /> Postgresql
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
-          height="40"
-          alt="Redis"
-        />
-        <img width="12" /> Redis
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          height="40"
-          alt="Git"
-        />
-        <img width="12" /> Docker
-      </td>
-    </tr>
-  </tbody>
-</table>
+---
+
+## 🔭 Languages & Tools
+
+### ⚙️ Back-end
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+</div>
+
+### 🎨 Front-end
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
+
+### 🗄️ Banco de Dados & Mensageria
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+</div>
+
+### 🛠️ DevOps, Testes & Ferramentas
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pest PHP](https://img.shields.io/badge/Pest_PHP-F44336?style=for-the-badge&logo=php&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
+</div>
+
+### 🏗️ Arquitetura & Padrões
+
+<div align="center">
+
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-05DBF2?style=for-the-badge&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&color=0d1117)
+![CQRS](https://img.shields.io/badge/CQRS-Pattern-05DBF2?style=for-the-badge&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-0d1117?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event_Driven_Architecture-05DBF2?style=for-the-badge&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 📬 Entre em contato
+
+<div align="center">
+  <a href="https://geovanearaujo.dev.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-05DBF2?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/geovanesaraujo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:geovanesv89@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=geovanesv&color=05DBF2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=05DBF2&height=80&section=footer"/>
+</div>
