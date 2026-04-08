@@ -16,7 +16,7 @@
 
 ## 👋 Sobre mim
 
-🚀 Desenvolvedor FullStack com sólida experiência em back-end, apaixonado por **arquitetura limpa, microsserviços e performance**. Formado em Ciência da Computação pelo Instituto Federal do Ceará, com vivência em projetos reais de alta complexidade envolvendo filas assíncronas, gateways de pagamento e arquitetura orientada a eventos.
+🚀 Desenvolvedor FullStack com experiência em back-end, apaixonado por **arquitetura limpa, microsserviços e performance**. Formado em Ciência da Computação pelo Instituto Federal do Ceará, com vivência em projetos reais de alta complexidade envolvendo filas assíncronas, gateways de pagamento e arquitetura orientada a eventos.
 
 - 📚 Bacharel em **Ciência da Computação** — [Instituto Federal do Ceará](https://ifce.edu.br)
 - 🎓 Técnico em **Informática** — [Instituto Federal do Ceará](https://ifce.edu.br)
