@@ -21,7 +21,7 @@
 - 📚 Bacharel em **Ciência da Computação** — [Instituto Federal do Ceará](https://ifce.edu.br)
 - 🎓 Técnico em **Informática** — [Instituto Federal do Ceará](https://ifce.edu.br)
 - 🏢 FullStack Developer @ edunext  
-  → Desenvolvimento de aplicações com NestJS, AdonisJS e Vue.js
+  → Desenvolvimento de aplicações com NodeJs, NestJS, AdonisJS, ReactJS e VueJS
 - 🏢 FullStack Developer @ Quyta  
   → Desenvolvimento de sistemas com Laravel, React e TypeScript
 - 🏗️ Experiência em Arquitetura de Software utilizando **DDD, Clean Architecture, CQRS e SOLID**
